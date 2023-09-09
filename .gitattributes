@@ -1,0 +1,2 @@
+candidates/** filter=lfs diff=lfs merge=lfs -text
+final/** filter=lfs diff=lfs merge=lfs -text
